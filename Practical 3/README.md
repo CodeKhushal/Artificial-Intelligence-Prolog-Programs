@@ -5,5 +5,5 @@
 
 `FACTORIAL`
 <p align="center">
-<img src="https://user-images.githubusercontent.com/68191677/218272234-f97c67a6-594f-4eb4-b52c-df626ac95466.png"  />
+<img src="https://user-images.githubusercontent.com/68191677/218273217-09585703-ab8e-44d6-bc89-087b23604470.png"  />
 </p>

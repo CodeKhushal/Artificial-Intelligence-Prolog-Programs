@@ -5,8 +5,4 @@ factorial(0, 1).
 factorial(N, F):-
     N1 is N-1,
     factorial(N1, Y),
-    F is Y*N,
-    write('Factorial of '),
-    write(N),
-    write(' is '),
-    write(F),nl.
+    F is Y*N.

@@ -5,5 +5,5 @@
 
 `GCD`
 <p align="center">
-<img src="https://user-images.githubusercontent.com/68191677/218272234-f97c67a6-594f-4eb4-b52c-df626ac95466.png"  />
+<img src="https://user-images.githubusercontent.com/68191677/218273386-f715258f-c0a9-4e45-a3dc-2db22df0c64a.png"  />
 </p>
