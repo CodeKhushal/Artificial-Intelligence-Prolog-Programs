@@ -1,0 +1,9 @@
+# PRACTICAL 5
+**Write a Prolog program to implement GCD of two numbers.**
+
+## OUTPUT
+
+`GCD`
+<p align="center">
+<img src="https://user-images.githubusercontent.com/68191677/218272234-f97c67a6-594f-4eb4-b52c-df626ac95466.png"  />
+</p>
