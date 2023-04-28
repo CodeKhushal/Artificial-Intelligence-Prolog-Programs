@@ -5,5 +5,5 @@
 
 `nTH ELEMENT`
 <p align="center">
-<img src="https://user-images.githubusercontent.com/68191677/218272701-d3a33f32-c319-49c8-8d5b-93713246b77d.png"  />
+<img src="https://user-images.githubusercontent.com/68191677/235093446-2ff7114c-3b73-494d-8fe0-eb3f211c7005.png"  />
 </p>

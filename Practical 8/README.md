@@ -5,5 +5,5 @@
 
 `MEMBER`
 <p align="center">
-<img src="https://user-images.githubusercontent.com/68191677/218272701-d3a33f32-c319-49c8-8d5b-93713246b77d.png"  />
+<img src="https://user-images.githubusercontent.com/68191677/235092578-844add3c-179f-44ba-93c1-dab3142b9782.png"  />
 </p>

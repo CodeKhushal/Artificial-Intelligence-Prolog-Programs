@@ -5,5 +5,5 @@
 
 `MAX OF LIST`
 <p align="center">
-<img src="https://user-images.githubusercontent.com/68191677/218272701-d3a33f32-c319-49c8-8d5b-93713246b77d.png"  />
+<img src="https://user-images.githubusercontent.com/68191677/235093468-23c10b2f-d420-4269-83b9-6c883adb3979.png"  />
 </p>

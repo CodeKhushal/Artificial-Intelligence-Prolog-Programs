@@ -5,5 +5,5 @@
 
 `DELETE`
 <p align="center">
-<img src="https://user-images.githubusercontent.com/68191677/218272701-d3a33f32-c319-49c8-8d5b-93713246b77d.png"  />
+<img src="https://user-images.githubusercontent.com/68191677/235093622-c4dd99b3-c086-4f80-9e3d-aabe7067eab7.png"  />
 </p>

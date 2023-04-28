@@ -5,5 +5,5 @@
 
 `SUM OF LIST`
 <p align="center">
-<img src="https://user-images.githubusercontent.com/68191677/218272701-d3a33f32-c319-49c8-8d5b-93713246b77d.png"  />
+<img src="https://user-images.githubusercontent.com/68191677/235093309-080f0cab-df40-4073-9723-9342a38b58d7.png"  />
 </p>

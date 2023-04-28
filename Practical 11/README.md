@@ -5,5 +5,5 @@
 
 `PALINDROME`
 <p align="center">
-<img src="https://user-images.githubusercontent.com/68191677/218272701-d3a33f32-c319-49c8-8d5b-93713246b77d.png"  />
+<img src="https://user-images.githubusercontent.com/68191677/235093201-08e18f97-670c-4f6a-b0af-47517c46e6a5.png"  />
 </p>
